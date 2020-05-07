@@ -1,0 +1,1 @@
+cmd_/home/ella/Desktop/ex3_319426706/message_slot.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/ella/Desktop/ex3_319426706/message_slot.ko /home/ella/Desktop/ex3_319426706/message_slot.o /home/ella/Desktop/ex3_319426706/message_slot.mod.o ;  true
